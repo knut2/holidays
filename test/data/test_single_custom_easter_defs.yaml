@@ -1,0 +1,5 @@
+months:
+  0: 
+  - name: Easter monday
+    regions: [custom_easter_file]
+    function: easter(year)+1
